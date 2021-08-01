@@ -6,4 +6,3 @@ Dylan's personal development note
 
 > quotation
 > test
-> wow! 123
